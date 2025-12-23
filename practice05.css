@@ -1,0 +1,10 @@
+div{
+    position: fixed;
+    color: white;
+    height: 200px;
+    width: 200px;
+    background-color: lightcoral;
+    background-image: url(modi.png);
+    background-size: cover;
+    right:  0px;
+}
